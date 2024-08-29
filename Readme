@@ -1,0 +1,21 @@
+Enunciado do Projeto
+Título: Contador de 1 a 10
+
+Descrição:
+Desenvolva um programa em Python que inicializa um contador e imprime os números de 1 a 10. O contador deve começar em 1 e incrementar em 1 até atingir o valor de 10. O programa deve utilizar um loop while para realizar essa contagem.
+
+Requisitos:
+
+Inicializar o contador com o valor 1.
+Utilizar um loop while para incrementar o valor do contador até que ele atinja o valor 10.
+Imprimir o valor do contador em cada iteração do loop.
+
+# Contador de 1 a 10
+
+## Descrição
+Este projeto consiste em um programa simples em Python que imprime os números de 1 a 10 utilizando um loop `while`. O contador é inicializado com o valor 1 e incrementa em 1 a cada iteração até que atinja o valor 10.
+
+## Como Executar
+1. Clone o repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/seu_usuario/contador-de-1-a-10.git
